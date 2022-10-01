@@ -1,30 +1,30 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tianlong Zhao
 
 # Full name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Tianlong
+last_name: Zhao
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Teacher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Fenghua Middle School
+    url: https://www.ruyile.com/school/r225627/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Fitness
+  - Computer Games
+  - Draw
 
 # Education to show in About widget
 education:
@@ -68,7 +68,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: '1835943813@qq.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
